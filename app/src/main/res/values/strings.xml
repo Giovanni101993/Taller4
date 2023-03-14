@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="calculadora">CALCULADORA</string>
+    <string name="ingrese_el_primer_n_mero">Ingrese el primer número</string>
+    <string name="ingrese_el_segundo_n_mero">Ingrese el segundo número</string>
+    <string name="button">Button</string>
+    <string name="calcular">Calcular</string>
+    <string name="suma">Suma</string>
+    <string name="multiplicacion">Multiplicación</string>
+</resources>
